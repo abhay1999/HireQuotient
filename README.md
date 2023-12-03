@@ -10,5 +10,5 @@ Currently, two official plugins are available:
 
 # To run the code
 
-npm install
-npm run dev
+#npm install
+#npm run dev
