@@ -1,15 +1,25 @@
-# React + Vite
+# HireQuotient
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Building an interface for admins to see and delete users.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Prerequisites
 
+Before you begin, ensure you have Node.js and npm installed on your machine.
 
-# To run the code--
+### Installation
 
-# npm install
+1. Clone the repository:
 
-# npm run dev
+   ```bash
+   git clone https://github.com/abhay1999/HireQuotient.git
+
+### Navigate to the project directory:
+cd your-repo
+
+### Install dependencies:
+npm install
+
+### To start the development server, run:
+npm run dev
